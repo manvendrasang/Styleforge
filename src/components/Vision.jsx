@@ -3,28 +3,28 @@ import VisionItem from "./VisionItem"
 
 const data = [
     {
-        year:2020,
-        title:'xyzabcpqr',
-        duration:'3years',
-        details:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
+        year:2024,
+        title:'Health',
+        // duration:'3years',
+        details:"Giving priority to your health as well as your family's well being."
     },
     {
-        year:2020,
-        title:'xyzabcpqr',
-        duration:'3years',
-        details:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
+        year:2024,
+        title:'Keeping up with the trend',
+        // duration:'3years',
+        details:'We certainly would not want you to be left behind any fashion trends.'
     },
     {
-        year:2020,
-        title:'xyzabcpqr',
-        duration:'3years',
-        details:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
+        year:2024,
+        title:'Giving a balance',
+        // duration:'3years',
+        details:'The proper balance not only with diet, but as well as with your work schedule to keep the mind and body in a harmony.'
     },
     {
-        year:2020,
-        title:'xyzabcpqr',
-        duration:'3years',
-        details:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam'
+        year:2024,
+        title:'Keeping it real',
+        // duration:'3years',
+        details:'We value your health and lifestyle and we will never compromise in on this.'
     }
 ]
 const Vision = () => {

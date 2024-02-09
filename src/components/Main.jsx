@@ -13,16 +13,16 @@ const Main = () => {
         
                 <div className="max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center">
         
-                    <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">Styleforge</h1>
+                    <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">EcoChic</h1>
                     <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-800">
-                        xyz
+                        We work for
                         <TypeAnimation
                         sequence={[
-                            'a',
+                            'your health',
                             1000,
-                            'b',
+                            'your style',
                             1000,
-                            'c',
+                            'your needs',
                             1000
                         ]}
                         wrapper="div"
