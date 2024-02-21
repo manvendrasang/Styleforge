@@ -15,7 +15,7 @@ const Main = () => {
         
                     <h1 className="sm:text-5xl text-4xl font-bold text-gray-800">EcoChic</h1>
                     <h2 className="flex sm:text-3xl text-2xl pt-4 text-gray-800">
-                        We work for
+                        We wx   ork for
                         <TypeAnimation
                         sequence={[
                             'your health',

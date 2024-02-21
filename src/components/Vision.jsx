@@ -6,7 +6,7 @@ const data = [
         year:2024,
         title:'Health',
         // duration:'3years',
-        details:"Giving priority to your health as well as your family's well being."
+        details:"Giving priority to your health as well as your well being."
     },
     {
         year:2024,
